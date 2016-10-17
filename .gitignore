@@ -2,6 +2,7 @@ node_modules
 start.sh
 .avoscloud
 .leancloud
+.idea
 
 # VIM
 *~
